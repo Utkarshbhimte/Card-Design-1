@@ -60,7 +60,7 @@ html, body{
 
 @media (max-width: 440px){
 	.card-layout{
-	width: 97%;
+	width: 100%;
 	min-width: 180px;
 }
 
@@ -69,6 +69,6 @@ html, body{
 	width: 100%;
 	min-width: 180px;
 }
-  .six.columns                    { width: 80%;            }
+  .six.columns                    { width: 100%;            }
 
 }
