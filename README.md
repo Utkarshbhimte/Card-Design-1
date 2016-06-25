@@ -1,6 +1,8 @@
-# DashBoard-Prototype-2
+# Card Design
 
+<img src="images/Screenshot (9).png">
 
-Another Prototype Design for Dev Dashboard.<br>
+Made a Layout showcasing some of my favourite FrontEnd Tutorials on YouTube<br>
 Used Skeleton Framework. <a><br>
-Check Out the Website <a href="https://utkarshbhimte.github.io/DashBoard-Prototype-2">here</a>.
+
+Check Out the Website <a href="https://utkarshbhimte.github.io/Card-Design-1">here</a>.

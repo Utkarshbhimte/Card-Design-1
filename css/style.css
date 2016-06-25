@@ -8,14 +8,10 @@ html, body{
 #nav{
 	text-align: center;
 	margin-top: 4%;
-	width: 70%;
 }
 
-
-
-.columns{
-	position:relative;
-	float: left;
+.container{
+	margin-top: 10vh !important;
 }
 
 .card-layout{
@@ -62,38 +58,17 @@ html, body{
 	margin: 1%;
 }
 
-.container{
-	max-width: 70% !important;
-	margin-right: 0px !important
-	margin-left 0px!important;
-}
-
 @media (max-width: 440px){
 	.card-layout{
+	width: 70%;
+	min-width: 180px;
+}
+
+.card-layout img{
+	height: auto;
 	width: 100%;
 	min-width: 180px;
-	}
-
-	.container{
-		max-width: 70% !important;
-		margin-right: 0px !important
-		margin-left 0px!important;
-	}
-
-	.card-layout img{
-		height: auto;
-		width: 100%;
-		min-width: 180px;
-	}
-	  .six.columns                    { width:70%;        }
-
- 	#nav h2, #nav h1{
-	font-size: 1em !important;
-	}
-
-	div.row{
-		max-width: 60vw;
-		margin-right: 0px !important;
-	}
+}
+  .six.columns                    { width: 80%;            }
 
 }
