@@ -25,11 +25,11 @@ html, body{
 	-webkit-box-shadow: 0px 67px 74px -40px rgba(66,66,66,0.63);
 	-moz-box-shadow: 0px 67px 74px -40px rgba(66,66,66,0.63);
 	box-shadow: 0px 67px 74px -40px rgba(66,66,66,0.63);
-	transition: all .3s ease-in-out;
+	transition: all .2s ease-in-out;
 }
 
 .card-layout:hover{
-	transform: scale(1.1);
+	transform: scale(1.05);
 	-webkit-box-shadow: 0px 46px 103px -49px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 46px 103px -49px rgba(0,0,0,0.75);
 	box-shadow: 0px 46px 103px -49px rgba(0,0,0,0.75);
@@ -53,7 +53,7 @@ html, body{
 
 .card-layout .content a{
 	text-decoration: none;
-	font-size: 100%;
+	font-size: 200%;
 	color: #000;
 	margin: 1%;
 }
