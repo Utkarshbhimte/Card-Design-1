@@ -1,8 +1,7 @@
-# Card Design
+# StudNET Prototype
 
 <img src="images/Screenshot (9).png">
 
-Made a Layout showcasing some of my favourite FrontEnd Tutorials on YouTube<br>
-Used Skeleton Framework. <a><br>
+I made a Prototype Design for StudNET, A Student Portal to provide Study Material Offline.<a><br>
 
-Check Out the Website <a href="https://utkarshbhimte.github.io/Card-Design-1">here</a>.
+Check Out the Website <a href="https://utkarshbhimte.github.io/StudNET-Prototype">here</a>.
